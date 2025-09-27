@@ -1,4 +1,4 @@
-## Simple-Banking-System
+# Simple-Banking-System
 
 ## Overview
 My first simple baking system, which utilizes JSON for account management.
