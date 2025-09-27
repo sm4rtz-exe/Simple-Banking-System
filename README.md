@@ -1,7 +1,7 @@
 # Simple-Banking-System
 
 ## Overview
-My first simple baking system, which utilizes JSON for account management.
+My first simple banking system, which utilizes JSON for account management.
 
 ## Motivation
 Built this project to practice Python programming and work with JSON files.
